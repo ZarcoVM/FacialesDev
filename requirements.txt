@@ -1,6 +1,6 @@
 absl-py==2.1.0
 attrs==24.2.0
-blinker==1.7.0  
+blinker==1.7.0   
 branca==0.7.2 
 certifi==2024.6.2
 cffi==1.17.1
