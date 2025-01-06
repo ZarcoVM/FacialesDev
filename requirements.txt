@@ -25,7 +25,7 @@ MarkupSafe==2.1.5
 matplotlib==3.7.1
 mediapipe==0.10.15
 ml_dtypes==0.5.0
-networkx==3.3
+networkx==3.3 
 numpy==1.26.4
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
