@@ -14,7 +14,7 @@ folium==0.17.0
 fonttools==4.53.1
 geographiclib==2.0
 geopy==2.4.1
-gunicorn==23.0.0 
+gunicorn==23.0.0  
 idna==3.7
 itsdangerous==2.2.0
 jax==0.4.35
