@@ -1,6 +1,6 @@
  import os  
 from flask import Flask, render_template, request, jsonify, send_from_directory
-import cv2
+import cv2 
 import mediapipe as mp 
 import matplotlib
 matplotlib.use('Agg')  # Set backend before importing pyplot
