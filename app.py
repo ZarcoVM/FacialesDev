@@ -9,7 +9,7 @@ import numpy as np
 import base64
 from io import BytesIO
 from werkzeug.utils import secure_filename
-
+ 
 app = Flask(__name__)
 
 # Configure upload folder
