@@ -17,7 +17,6 @@ app = Flask(__name__)
 
 
 
-
 # Configure upload folder
 UPLOAD_FOLDER = 'static/uploads'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
